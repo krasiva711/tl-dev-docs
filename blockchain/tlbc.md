@@ -3,7 +3,7 @@ title: Trustlines Blockchain
 ---
 
 The Trustlines Blockchain (TLBC) was sunset in December 2022 and the Trustlines Protocol
-have been deployed on [Gnosis Chain](https://www.gnosis.io).
+have been deployed on [0x77dd8aae9230B11C65FEb571c5882F7502beA5C
 
 ## Why was TLBC sunset?
 When we started the Trustlines project in 2018, we were looking for a blockchain that would
